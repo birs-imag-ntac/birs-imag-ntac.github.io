@@ -70,7 +70,7 @@ body {
 
 /*header section*/
 .hero_area {
-  height: 100vh;
+  height: 75vh;
   background-color: #b5caee;
   background-image: url(../images/granada.jpg);
   background-size: cover;
