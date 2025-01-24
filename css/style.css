@@ -710,5 +710,11 @@ a:focus {
   color: #fbfcfd;
 }
 
+table {
+    margin-left: auto;
+    margin-right: auto;
+    /* Alternatively, use shorthand: margin: 0 auto; */
+}
+
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
